@@ -1,0 +1,3 @@
+# Insufficient Error Handling in Asynchronous Dart Code
+
+This repository demonstrates a common error in Dart: inadequate error handling within asynchronous functions. The provided code fetches data from an API but only prints the error without providing detailed context or allowing for proper recovery.  The solution showcases improved error handling to make the application more robust and easier to debug.
